@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Topics/Boolean and logical operations/Program a Boolean function/out/
+/Topics/Boolean and logical operations/Program a Boolean function/out/production/classes/
+/Topics/For loop and lists/Individual taxes/out/
+/Topics/For loop and lists/Individual taxes/out/production/classes/
+/Topics/For loop and lists/Right Rotation/out/
+/Topics/For loop and lists/Right Rotation/out/production/classes/
+/Topics/Functional decomposition/Calculator with four functions/out/
+/Topics/Functional decomposition/Calculator with four functions/out/production/classes/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/production/classes/
+/Topics/Introduction to Kotlin/Theory/build/
+/Topics/Introduction to Kotlin/Theory/out/
+/Topics/Introduction to Kotlin/Theory/out/production/classes/
+/Topics/Random/Always win the dice game/out/
+/Topics/Random/Always win the dice game/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Standard output/Correct the code/out/
+/Topics/Standard output/Correct the code/out/production/classes/
+/Topics/Standard output/Print code/out/
+/Topics/Standard output/Print code/out/production/classes/
+/Topics/Standard output/Tic-Tac-Toe/out/
+/Topics/Standard output/Tic-Tac-Toe/out/production/classes/
+/Topics/The classification of basic types/Max values of integer types/out/
+/Topics/The classification of basic types/Max values of integer types/out/production/classes/
+/Topics/Values and variables/Fix declarations/out/
+/Topics/Values and variables/Fix declarations/out/production/classes/
+/Topics/Work with MutableLists/Playing with numbers/out/
+/Topics/Work with MutableLists/Playing with numbers/out/production/classes/
